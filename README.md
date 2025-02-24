@@ -24,7 +24,7 @@ A React-based event booking interface with TypeScript and Tailwind CSS. This app
 1. Clone the repository:
    ```bash
    git clone https://github.com/Madhavanesh/Event-Booking-App.git
-   cd event-booking-system
+   cd Event-Booking-App
    ```
 
 2. Install dependencies:
